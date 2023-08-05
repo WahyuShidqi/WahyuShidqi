@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WahyuShidqi
-- 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning both
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m interested in front end web Development
+- 🌱 I always try to stay up to date to technological development especially in front-end development.
+- 💞️ I’m available for jobs.
 - 📫 How to reach me wahyushidqi550@gmail.com
 
 <!---
